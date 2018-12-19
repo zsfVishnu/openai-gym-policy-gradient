@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+# coding: utf8
 import gym
 from policy_gradient import PolicyGradient
 import matplotlib.pyplot as plt
