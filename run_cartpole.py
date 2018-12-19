@@ -16,7 +16,7 @@ print("env.observation_space.high", env.observation_space.high)
 print("env.observation_space.low", env.observation_space.low)
 
 
-RENDER_ENV = False
+RENDER_ENV = True
 EPISODES = 500
 rewards = []
 RENDER_REWARD_MIN = 50
